@@ -8,9 +8,8 @@
       "color": "Silver",
       "condition": "New",
       "features": [
-        "Leather seats",
-        "2.5L engine",
-        "Central locking"
+        "motor": "2.5L engine",
+        "extra": "Central locking"
       ]
     },
     {
@@ -21,9 +20,8 @@
       "color": "Black",
       "condition": "Used",
       "features": [
-        "3.0L engine",
-        "Exhaust system",
-        "Cruise control"
+        "motor": "3.0L engine",
+        "extra": "Exhaust system"
       ]
     }
   ]
