@@ -1,14 +1,16 @@
-{
-  "marca": "Toyota",
-  "modelo": "Corolla",
-  "anio": 2023,
-  "color": "Plateado",
-  "estado": "Nuevo"
-},
-{
-  "marca": "BMW",
-  "modelo": "serie 3",
-  "anio": 2018,
-  "color": "Negro",
-  "estado": "Usado"
-}
+[
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anio": 2023,
+    "color": "Plateado",
+    "estado": "Nuevo"
+  },
+  {
+    "marca": "BMW",
+    "modelo": "serie 3",
+    "anio": 2018,
+    "color": "Negro",
+    "estado": "Usado"
+  }
+]
