@@ -7,10 +7,10 @@
       "year": 2023,
       "color": "Silver",
       "condition": "New",
-      "features": [
+      "feature": {
         "motor": "2.5L engine",
         "extra": "Central locking"
-      ]
+      }
     },
     {
       "id": 2,
@@ -19,10 +19,10 @@
       "year": 2018,
       "color": "Black",
       "condition": "Used",
-      "features": [
+      "feature": {
         "motor": "3.0L engine",
         "extra": "Exhaust system"
-      ]
+      }
     }
   ]
 }
