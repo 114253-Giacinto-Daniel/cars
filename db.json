@@ -1,29 +1,38 @@
 {
-  "cars": [
+  "autos": [
     {
       "id": 1,
-      "brand": "Toyota",
-      "model": "Corolla",
-      "year": 2023,
-      "color": "Silver",
-      "condition": "New",
-      "feature": {
-        "motor": "2.5L engine",
-        "extra": "Central locking"
-      }
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "año": 2022,
+      "color": "Rojo",
+      "caracteristicas": ["Airbags", "Sistema de Navegación", "Cámara de Retroceso"]
     },
     {
       "id": 2,
-      "brand": "BMW",
-      "model": "3 series",
-      "year": 2018,
-      "color": "Black",
-      "condition": "Used",
-      "feature": {
-        "motor": "3.0L engine",
-        "extra": "Exhaust system"
-      }
+      "marca": "Honda",
+      "modelo": "Civic",
+      "año": 2021,
+      "color": "Azul",
+      "caracteristicas": ["Asientos de Cuero", "Sistema de Sonido Premium"]
+    },
+    {
+      "id": 3,
+      "marca": "Ford",
+      "modelo": "Mustang",
+      "año": 2023,
+      "color": "Negro",
+      "caracteristicas": []
+    },
+    {
+      "id": 4,
+      "marca": "Chevrolet",
+      "modelo": "Malibu",
+      "año": 2020,
+      "color": "Plata",
+      "caracteristicas": ["Sistema de Frenos ABS", "Techo Solar"]
     }
   ]
 }
+
 
